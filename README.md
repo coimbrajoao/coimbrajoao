@@ -7,6 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=coimbrajoao)](https://github.com/stats-organization/github-stats-extended) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=coimbrajoao&langs_count=3)
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=coimbrajoao&repo=Api.Cookies)](https://github.com/coimbrajoao/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
