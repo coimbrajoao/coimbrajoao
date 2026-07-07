@@ -4,14 +4,10 @@
 - 🔭 I’m currently working on support analyst
 - 🌱 I’m currently learning backend developer
 - 😄 Pronouns: he/him
-<div align="center">
-    <img
-        width="48%"
-        src="https://github-readme-stats.vercel.app/api?username=coimbrajoao&show_icons=true&theme=dark"
-    />
-    <img  width="48%"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=coimbrajoao&repo=Api.Cookies&theme=dark" />
-</div>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=coimbrajoao)](https://github.com/stats-organization/github-stats-extended) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=coimbrajoao&langs_count=3)
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Coimbra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
